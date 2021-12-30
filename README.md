@@ -26,7 +26,7 @@ A collection of recent articles and studies on the subject.
 
 * 2017 November, [How Bacteria Help Regulate Blood Pressure](https://www.quantamagazine.org/how-bacteria-help-regulate-blood-pressure-20171130/): Kidneys sniff out signals from gut bacteria for cues to moderate blood pressure after meals. Our understanding of how symbiotic microbes affect health is becoming much more molecular.
 
-* 2017 ???, [How does our gut talk to our brain? | Diego Bohorquez](https://www.youtube.com/watch?v=utFG8GEvmfg): Ecuadorian neuroscientist Diego Bohorquez introduces us to the neuropod, a tiny little extension that can be found on sensor cells in our gut. This discovery has caused us to rethink how our body communicates within itself. Could these tiny “little arms” on our cells be the carriers of gut-to-brain signals that determine our cravings?
+* 2017 ???, [How does our gut talk to our brain? Diego Bohorquez](https://www.youtube.com/watch?v=utFG8GEvmfg): Ecuadorian neuroscientist Diego Bohorquez introduces us to the neuropod, a tiny little extension that can be found on sensor cells in our gut. This discovery has caused us to rethink how our body communicates within itself. Could these tiny “little arms” on our cells be the carriers of gut-to-brain signals that determine our cravings?
 
 	* 2017 December, [A scientist explores the mysteries of the gut-brain connection](https://ideas.ted.com/a-scientist-explores-the-mysteries-of-the-gut-brain-connection/): The brain in your head and the one in your gut are always exchanging info. But how do they do it? Neuroscientist Diego Bohórquez is trying to find out the answers.
 
