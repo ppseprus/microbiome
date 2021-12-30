@@ -1,4 +1,4 @@
-An ever-up-to-date collection of articles and studies on the human microbiome.
+A — hopefully — ever-up-to-date collection of articles and studies on the human microbiome.
 
 -----
 
