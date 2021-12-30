@@ -1,4 +1,4 @@
-A collection of recent articles and studies on the subject.
+An ever-up-to-date collection of articles and studies on the human microbiome.
 
 -----
 
